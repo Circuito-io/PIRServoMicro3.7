@@ -1,8 +1,8 @@
 #include "PIR.h"
 
-PIRSensor::PIRSensor(int signalPin)
+PIRSensor::PIRSensor(int PIRPin)
 {
-	signalPin = signalPin;
+	signalPin = PIRPin;
 	
     pinMode(signalPin, INPUT);
 }
