@@ -1,0 +1,23 @@
+Circuito.io
+
+all right reserved
+...
+...
+...
+
+Ofer BOM:
+
+Power source:
+    1.Polymer Lithium Ion Battery - 2000mAh:
+        -link: https://www.sparkfun.com/products/8483
+        -additional:
+            -SparkFun Power Cell - LiPo Charger/Booster:
+                -link:https://www.sparkfun.com/products/11231
+MicroController:
+    1.Arduino pro micro 5v/16MHz: 
+        -link: https://www.sparkfun.com/products/12587
+Components:
+    1.Servo:
+        -link: https://www.sparkfun.com/products/10333
+    2.PIR Motion Sensor (JST):
+        -link: https://www.sparkfun.com/products/13285
