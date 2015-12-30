@@ -10,7 +10,7 @@ Power source:
                 -link:https://www.sparkfun.com/products/11231
 MicroController:
     1.Arduino pro micro 5v/16MHz: 
-        -link: https://www.sparkfun.com/products/12587
+        -link: https://www.sparkfun.com/products/12640
 Components:
     1.Servo:
         -link: https://www.sparkfun.com/products/10333
