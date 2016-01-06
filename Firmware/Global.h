@@ -6,7 +6,7 @@
 #include "PIR.h"
 #include "Servo.h"
 
-extern PIRSensor PIR;
+extern PIR pir;
 extern Servo servo;
 
 #endif //GLOBAL_H

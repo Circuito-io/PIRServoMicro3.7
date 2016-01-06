@@ -1,15 +1,14 @@
 #include "PIR.h"
 
-PIRSensor::PIRSensor(int PIRPin)
+PIR::PIR(int PIRPin)
 {
 	signalPin = PIRPin;
-	
-    pinMode(signalPin, INPUT);
+	pinMode(signalPin, INPUT_PULLUP);
+    
 }
-bool PIRSensor::read()
+bool PIR::read()
 {
-	return digitalRead(signalPin);
+	return !digitalRead(signalPin);
 }
-
 
 

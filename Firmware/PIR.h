@@ -1,14 +1,14 @@
-#ifndef RGBLED_H
-#define RGBLED_H
+#ifndef PIR_H
+#define PIR_H
 
 #include "arduino.h"
 
-class PIRSensor
+class PIR
 {
 	public:
-		PIRSensor(int signalPin);
-		bool read();             
+		PIR(int signalPin);
+		bool read();        
 	private:
 		int signalPin;
 };
-#endif //__RGBLED_H
+#endif //PIR_H
