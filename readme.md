@@ -4,8 +4,6 @@ circuito.io
 * Circuito.io is a system for generating a circuit schematic & accompanying code samples.
 Circuito.io generate the schematic & code based on your selection of micro-controller, i/o and power devices.
 
-The circuito.io team is composed of Matan Harel, Eyal Mehoudar, Barak Yemini, Uri Ramot, Dor Tal, Pavel Tarnopolsky, Ofer Berman and Yana Segalis.
-
 * For more information, see the website at: http://circuito.io
 You can also like circuito.io on Facebook at: https://www.facebook.com/circuito.io
 
@@ -21,5 +19,11 @@ This is your project folder, you'll find here:
 
 License
 -------
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-To the extent possible under law, [Circuito.io](http://circuito.io) has waived all copyright and related or neighbouring rights to this work.
+[GNU General Public License v3 (GPL-3)] (http://www.gnu.org/licenses/gpl-3.0.en.html)
+
+You may copy, distribute and modify the software as long as you track changes/dates in source files. Any modifications to or software including (via compiler) GPL-licensed code must also be made available under the GPL along with build & install instructions.
+
+Disclaimer
+----------
+All content of this project is furnished "as is", without technical support, and with no
+warranty, express or implied, as to its usefulness for any purpose.
