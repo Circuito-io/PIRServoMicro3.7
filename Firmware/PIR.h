@@ -6,9 +6,9 @@
 class PIR
 {
 	public:
-		PIR(int signalPin);
-		bool read();        
+		PIR(int PIRPin);
+		bool read();             
 	private:
-		int signalPin;
+		const int signalPin;
 };
 #endif //PIR_H
